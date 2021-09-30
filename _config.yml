@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Du Yong Chung"
 description              : "Yondubuntu님 의 개발 블로그입니다."
-url                      : "https://Yondubuntu.github.io
+url                      : "https://Yondubuntu.github.io"
 baseurl                  : ""
 repository               : "Yondubuntu/Yondubuntu.github.io"
 teaser                   : ""
