@@ -95,8 +95,8 @@ author:
   name             : "Yondubuntu"
   avatar           : # "https://user-images.githubusercontent.com/41863759/80867691-7c04d880-8cd0-11ea-8bc3-33cdab50c217.jpg"
   bio              : "Autuomous"
-  # location         : "Seoul, South Korea"
-  email            :
+  location         : "Seoul, South Korea"
+  email            : "endyd4@yonsei.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
